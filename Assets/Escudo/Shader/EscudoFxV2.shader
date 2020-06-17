@@ -1,4 +1,4 @@
-Shader "Unlit/EscudoFxV1"
+Shader "Unlit/EscudoFxV2"
 {
 	Properties
 	{

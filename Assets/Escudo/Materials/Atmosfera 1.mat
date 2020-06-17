@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Atmosfera
+  m_Name: Atmosfera 1
   m_Shader: {fileID: 4800000, guid: f5c89eac579e0a643b66c678893af967, type: 3}
   m_ShaderKeywords: F_OFF
   m_LightmapFlags: 0
@@ -104,7 +104,7 @@ Material:
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color0: {r: 1, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 0.099857606, g: 0.6415094, b: 0.6217198, a: 1}
+    - _MainColor: {r: 1, g: 0.43921572, b: 0, a: 1}
     - _intersectColor: {r: 1, g: 0, b: 0, a: 1}
     - _node_4016: {r: 0.034482475, g: 0, b: 1, a: 1}
     - _node_5050: {r: 0, g: 0, b: 0, a: 0}
